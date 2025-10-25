@@ -1,5 +1,5 @@
 local success1, err1 = pcall(function()
-    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/PU4JS6ZUBYtaOmgx/raw"))()
+    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/WDZWI8tvDBdHDJKA/raw"))()
 end)
 
 if not success1 then
